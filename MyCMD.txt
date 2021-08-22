@@ -1,0 +1,5 @@
+[cls] - очистить командную строку.
+[md] - (make directory) создать директорию.
+[dir] - show folders and files in the directory.
+[cd название папки] - change directory
+[cd ..] - перейти к родительской папке.
