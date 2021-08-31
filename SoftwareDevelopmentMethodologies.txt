@@ -1,0 +1,27 @@
+SOFTWARE DEVELOPMENT MODELS
+
+WATERFALL (водопад)
+Concept: Analysis > Design > Development > Testing > Release & Maintenance
+[Analysis]: Requirements gathering (Сбор требований), requirements specification preparation (подготовка требований спецификации).
+[Design]: Architecture, DB design, prototipe & wireframes development.
+[Development]: Coding.
+[Testing]: Test planning, Tests preparation, Testing & issues tracking (отслеживание проблем), Conclusions about quality (выводы о качестве).
+[Release & Maintenance] (Выпуск и поддержка): Application delivery, User acceptens, Support.
+
+AGILE (проворный)
+Values (ценности): Individuals & interactions (люди и взаимодействия), working software (рабочий софт), customer collaboration, responding to change.
+Principles behind the Agile Manifesto (принципы, лежащие в основе Agile Manifesto):
+	1. The highest priority is to satisfy the customer through early and continuous delivery of valuable software (Наивысшим приоритетом является удовлетворение потребностей клиентов за счет ранней и непрерывной поставки ценного программного обеспечения).
+	2. Welcome changing requirements (Приветствуем изменение требований).
+	3. Deliver working softwaqre frequently (from a couple of weeks to a couple of month) (Часто поставляйте рабочее программное обеспечение).
+	4. Business people and developers must work together daily throughout the project.
+	5. Build project around motivated individuals. Give them the environment and support they need, and trust them to get the gob done.
+	6. The most efficient and effective method of conveying information to and within a development team is fase-to-fase conversation.
+	7. !!! Working software is the primary measure of progress.
+	8. Agile processes promote sustainable development. The sponsors, developers, users should be able to maintain a constant pace  indefinitely.
+	9. Continuous attention to technical excellence and good design enhances agility.
+	10. Simplicity is essential. (Простота очень важна).
+	11. The best architectures, requirements, and design emerge from self-organizing teams.
+	12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+SCRUM 
