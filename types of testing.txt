@@ -1,0 +1,9 @@
+Functional testing
+Integration testing
+Compatibility testing
+Mobile testing
+Penetration testing
+Performance testing
+Accessebility testing
+Localization testing
+Usability testing
